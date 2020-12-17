@@ -6,7 +6,7 @@ Trở thành contributor cho `TOMOSIA BLOG`.
 
 Fork repository [TOMOSIA-VIETNAM](https://github.com/TOMOSIA-VIETNAM/tomoblo) về tài khoản github
 
-Clone repository sau khi fork
+Clone repository sau khi fork B
 
 
 ```bash
